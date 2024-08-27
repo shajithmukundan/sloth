@@ -29,7 +29,7 @@ namespace sloth {
 
     const minPulse = 500
     const maxPulse = 2500
-    const PCA9685_ADDRESS = 0x40
+    const PCA9685_ADDRESS = 0x6A
     const MODE1 = 0x00
     const MODE2 = 0x01
     const SUBADR1 = 0x02
